@@ -1,5 +1,5 @@
 const saudacao = (nome: string) => {
-  console.log(`Olá ${nome}!`)
-}
+  console.log(`Olá ${nome}!`);
+};
 
-saudacao('João Vicente')
+saudacao("João vicente");
